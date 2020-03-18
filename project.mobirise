@@ -46,7 +46,7 @@
       }
     ],
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/u5-128x65.png",
+    "favicon": "@PROJECT_PATH@/assets/images/ed-128x129.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -61,7 +61,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "ed",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
